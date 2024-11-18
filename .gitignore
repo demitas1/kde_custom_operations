@@ -1,0 +1,74 @@
+# Editor backup files
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+\#*#
+.#*
+*.bak
+*.backup
+*.old
+
+# VSCode
+.vscode/
+*.code-workspace
+.history/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Emacs
+*~
+\#*\#
+.\#*
+.emacs.desktop
+.emacs.desktop.lock
+*.elc
+auto-save-list/
+tramp
+.\#*
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Common build and temp directories
+build/
+dist/
+tmp/
+temp/
+.tmp/
+.temp/
+.cache/
+node_modules/
+
+# KDE specific
+.directory
+.kdev4/
+*.kdev4
+
+# Build artifacts
+*.o
+*.ko
+*.obj
+*.elf
+*.log

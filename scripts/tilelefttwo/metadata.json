@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Name": "Tile Left Two Thirds",
+        "Description": "Tiles the active window to the left two thirds of the screen",
+        "Icon": "preferences-system-windows-script-test",
+        "Authors": [
+            {
+                "Name": "Your Name",
+                "Email": "your.email@example.com"
+            }
+        ],
+        "Id": "tilelefttwo",
+        "Version": "1.0",
+        "License": "GPL v3",
+        "EnabledByDefault": true
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
