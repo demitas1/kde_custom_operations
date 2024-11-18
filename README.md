@@ -1,4 +1,4 @@
-# KDE Custome script to tile window 2/3 desktop width
+# KDE custom script to tile window 2/3 desktop width
 
 ## Install
 
