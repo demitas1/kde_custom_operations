@@ -9,7 +9,7 @@
                 "Email": "your.email@example.com"
             }
         ],
-        "Id": "tilelefttwo",
+        "Id": "tile_left_two_thirds",
         "Version": "1.0",
         "License": "GPL v3",
         "EnabledByDefault": true

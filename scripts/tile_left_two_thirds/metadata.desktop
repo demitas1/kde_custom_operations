@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Tile Left Two Thirds
+Comment=Tiles the active window to the left two thirds of the screen
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Your Name
+X-KDE-PluginInfo-Email=your.email@example.com
+X-KDE-PluginInfo-Name=tile_left_two_thirds
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=GPL v3
+X-KDE-PluginInfo-EnabledByDefault=true
+
+Type=Service
+X-KDE-ServiceTypes=KWin/Script
